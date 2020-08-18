@@ -1,8 +1,0 @@
-eco/com/apigraphql/GraphqlProvider.java
- eco.com.apigraphql.GraphqlProvider
-eco/com/apigraphql/GraphQLDataFetchers.java
- eco.com.apigraphql.GraphQLDataFetchers
-eco/com/apigraphql/ApigraphqlApplication.java
- eco.com.apigraphql.ApigraphqlApplication
-eco/com/apigraphql/DataFetcher.java
- eco.com.apigraphql.DataFetcher
